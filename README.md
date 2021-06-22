@@ -7,4 +7,4 @@ Atuamente estou entrando no mundo da programação, e espero me dar muito bem, t
 - 🔭 Atualmente trabalho em uma casa de material de construção "GUEMAT" como conferente.
 - 🌱 Tenho estudado HTML, CSS e Javascript
 - 👯 Estou atualizando no meu Github! [viniciusbzerra.github.io/](http://viniciusbzerra.github.io)
-- 📫 Meu contato [www.linkedin.com/in/vinicius-bzerra](www.linkedin.com/in/vinicius-bzerra)
+- 📫 Meu contato [www.linkedin.com/in/vinicius-bzerra](http://www.linkedin.com/in/vinicius-bzerra)
