@@ -1,9 +1,9 @@
-### Hi there 👋
+### Ola Bem vindos ao meu Github 👋
 
 <!--
 **viniciusbzerra/viniciusbzerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou suporte de TI, não estou na áre no momento porem a procura de um oportunidade para me q na área de Tecnologia:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
